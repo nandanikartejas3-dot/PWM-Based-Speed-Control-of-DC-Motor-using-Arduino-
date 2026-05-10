@@ -14,8 +14,7 @@ This project implements a **PWM (Pulse Width Modulation) based DC motor speed co
 - **Efficient control** compared to conventional series voltage-drop methods
 
 ---
-## Components Used 
-![Components Used](Components Used-photo.png)
+
 ## Objectives
 
 - Control DC motor speed using PWM technique
