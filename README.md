@@ -1,6 +1,6 @@
 # PWM Based Speed Control of DC Motor using Arduino
 
-This project implements a **PWM (Pulse Width Modulation) based DC motor speed control system** using an **Arduino UNO** and an **L298N H-Bridge motor driver**. Motor speed is controlled by varying PWM duty cycle using a **potentiometer**, motor direction is selected via **push buttons**, and a **16×2 LCD** displays real-time speed percentage and direction.
+This project implements a **PWM (Pulse Width Modulation) based DC motor speed control system** using an **Arduino UNO** and an **L298N H-Bridge motor driver**. Motor speed is controlled by varying PWM duty cycle using a **potentiometer**, motor direction is selected via **push buttons**, and a **16×2 LCD** displays real-time speed percentage and direction. The project demonstrates practical implementation of embedded systems, motor drives, PWM control techniques, and power electronics used in industrial automation, robotics, and electric vehicle applications
 
 ![Hardware prototype](hardware-model-photo.png)
 
@@ -14,7 +14,8 @@ This project implements a **PWM (Pulse Width Modulation) based DC motor speed co
 - **Efficient control** compared to conventional series voltage-drop methods
 
 ---
-
+## Components Used 
+![Components Used](Components Used-photo.png)
 ## Objectives
 
 - Control DC motor speed using PWM technique
